@@ -32,5 +32,6 @@ GPS module can be added to send live location to seek help from near by police, 
 
 
 
+![iot_result](https://github.com/user-attachments/assets/de7d938d-5e39-4c88-8883-2e33e0d23e73)
 
 
