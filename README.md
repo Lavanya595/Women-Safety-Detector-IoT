@@ -4,7 +4,7 @@
 An IoT-based system using *Raspberry Pi, Touch Sensor, LED, and Twilio API*.  
 When the sensor is triggered, the system:
 - Turns on an *emergency LED* and rungs a buzzer to grab help from surroundings.
-- Sends an *SMS alert* to a predefined contact making help exccessable asap.
+- Sends an *SMS alert* and call to a predefined contact making help exccessable asap.
 
 ---
 
@@ -26,6 +26,9 @@ When the sensor is triggered, the system:
 ##  How to Run
 install all the dependencies like raspberry pi , twilio, python libraries etc.
 
+
+**Future implementations
+GPS module can be added to send live location to seek help from near by police, family, friends etc.
 
 
 
