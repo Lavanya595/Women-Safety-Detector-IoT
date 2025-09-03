@@ -1,10 +1,10 @@
-<<<<<<< HEAD
+
 # Women Safety Detector 
 
 An IoT-based system using *Raspberry Pi, Touch Sensor, LED, and Twilio API*.  
 When the sensor is triggered, the system:
-- Turns on an *emergency LED*
-- Sends an *SMS alert* to a predefined contact
+- Turns on an *emergency LED* and rungs a buzzer to grab help from surroundings.
+- Sends an *SMS alert* to a predefined contact making help exccessable asap.
 
 ---
 
@@ -18,13 +18,16 @@ When the sensor is triggered, the system:
 
 ##  Tech Stack
 - Python  
-- RPi.GPIO (for Raspberry Pi hardware control)  
+- RPi.GPIO (for Raspberry Pi hardware control) from IOT pro kit.
 - Twilio API (for SMS alerts)
 
 ---
 
 ##  How to Run
-install all the dependencies like raspberry pi , twilio, python-dotenv etc.
-=======
-# this is my new repo
->>>>>>> 99067eea3fd512818da4d89da0db63d0b31e0096
+install all the dependencies like raspberry pi , twilio, python libraries etc.
+
+
+
+
+
+
