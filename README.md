@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Women Safety Detector 
 
 An IoT-based system using *Raspberry Pi, Touch Sensor, LED, and Twilio API*.  
@@ -24,3 +25,6 @@ When the sensor is triggered, the system:
 
 ##  How to Run
 install all the dependencies like raspberry pi , twilio, python-dotenv etc.
+=======
+# this is my new repo
+>>>>>>> 99067eea3fd512818da4d89da0db63d0b31e0096
